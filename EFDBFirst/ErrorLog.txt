@@ -1,0 +1,23 @@
+Message: The underlying provider failed on Open., Type: System.Data.Entity.Core.EntityException, Source: EntityFramework
+Message: Nullable object must have a value., Type: System.InvalidOperationException, Source: mscorlib
+Message: The controller for path '/abcd' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel.
+Login failed for user 'laxman'., Type: System.Data.SqlClient.SqlException, Source: .Net SqlClient Data Provider
+Message: SQL Server service has been paused. No new connections will be allowed. To resume the service, use SQL Computer Manager or the Services application in Control Panel.
+Login failed for user 'laxman'., Type: System.Data.SqlClient.SqlException, Source: .Net SqlClient Data Provider
+Message: A public action method 'aaa' was not found on controller 'EFDBFirst.Controllers.AccountController'., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/pol' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
+Message: The controller for path '/api/brands' was not found or does not implement IController., Type: System.Web.HttpException, Source: System.Web.Mvc
